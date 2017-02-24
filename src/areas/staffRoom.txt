@@ -1,0 +1,17 @@
+11 10
+n w0 w0 w0 w0 w0 w0 w0 w0 w0 n
+w3 c0 c0 c0 c0 c0 c0 c0 c0 c0 w1
+w3 c0 c0 c0 c0 c0 c0 c0 c0 c0 w1
+w3 c0 c0 c0 c0 c0 c0 c0 c0 c0 w1
+w3 c0 c0 c0 c0 c0 c0 c0 c0 c0 w1
+w3 c0 c0 c0 c0 c0 c0 c0 c0 c0 w1
+w3 c0 c0 c0 c0 c0 c0 c0 c0 c0 w1
+w3 c0 c0 c0 c0 c0 c0 c0 c0 c0 w1
+w3 c0 c0 c0 c0 c0 c0 c0 c0 c0 w1
+n w2 w2 w2 w2 w2 w2 w2 w2 w2 n
+
+FIXED couch1 co1 9 3 9 2 
+FIXED couch2 co3 7 2 7 3
+FIXED table10 T0 5 3 
+FIXED paintingOne1 1P2 5 9
+FIXED paintingThree0 3P1 10 5

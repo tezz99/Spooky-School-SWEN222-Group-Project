@@ -1,0 +1,13 @@
+8 7
+n w0 w0 w0 w0 w0 w0 n
+w3 c0 c0 c0 c0 c0 c0 w1
+w3 c0 c0 c0 c0 c0 c0 w1
+w3 c0 c0 c0 c0 c0 c0 w1
+w3 c0 c0 c0 c0 c0 c0 w1
+w3 c0 c0 c0 c0 c0 c0 w1
+n w2 w2 w2 w2 w2 w2 n
+
+FIXED potWater1 pw0 3 5
+FIXED potWater2 pw0 4 3
+FIXED potWater3 pw0 1 2
+FIXED Bookcase1 bo0 4 1 5 1

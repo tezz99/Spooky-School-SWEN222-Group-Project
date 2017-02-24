@@ -1,0 +1,6 @@
+pizza_01 FIXED_CONTAINER FixedContainer1
+laptop_01 FIXED_CONTAINER FixedContainer2
+key_02 FIXED_CONTAINER FixedContainer2
+box_01 FIXED_CONTAINER FixedContainer3
+key_5 CONTAINER box_01
+exm FIXED_CONTAINER FixedContainer4

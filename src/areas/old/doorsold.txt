@@ -1,0 +1,9 @@
+sh1 d2 open unlocked null Spawn_1 4 11 4 10 Hallway 5 0 5 1
+sh2 d2 open unlocked null Spawn_2 4 11 4 10 Hallway 10 0 10 1
+sh3 d2 open unlocked null Spawn_3 4 11 4 10 Hallway 15 0 15 1
+sh4 d2 open unlocked null Spawn_4 4 11 4 10 Hallway 20 0 20 1
+sh5 d0 open unlocked null Spawn_5 6 1 6 2 Hallway 5 4 5 3
+sh6 d0 open unlocked null Spawn_6 6 1 6 2 Hallway 10 4 10 3
+sh7 d0 open unlocked null Spawn_7 6 1 6 2 Hallway 15 4 15 3
+sh8 d0 open unlocked null Spawn_8 6 1 6 2 Hallway 20 4 20 3
+hd1 d3 open unlocked null Hallway 0 2 1 2 Dorm_room 16 8 15 8

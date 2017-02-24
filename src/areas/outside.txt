@@ -1,0 +1,27 @@
+23 20
+F1 f2 f2 f2 f2 Q3 B2 B2 B2 B2 B2 B2 B2 B2 Q0 f2 f2 f2 f2 f2 f2 f2 F2
+f1 g0 g0 g0 g0 B1 R0 R0 R0 R0 R0 R0 R0 R0 B3 g0 g0 g0 g0 g0 g0 g0 f3
+f1 g0 g0 g0 g0 B1 R0 R0 R0 R0 R0 R0 R0 R0 B3 g0 g0 g0 g0 g0 g0 g0 f3
+f1 g0 g0 g0 g0 B1 R0 R0 R0 R0 R0 R0 R0 R0 B3 g0 g0 g0 g0 g0 g0 g0 f3
+f1 g0 g0 g0 g0 B1 R0 R0 R0 R0 R0 R0 R0 R0 B3 g0 g0 g0 g0 g0 g0 g0 f3
+f1 g0 g0 g0 g0 Q2 B0 B0 B0 B0 B0 B0 B0 B0 Q1 g0 g0 g0 g0 g0 g0 g0 f3
+f1 g0 g0 g0 g0 g0 g0 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 g0 Q3 B2 B2 B2 Q0
+f1 g0 g0 g0 g0 g0 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 B1 R0 R0 R0 B3
+f1 g0 g0 g0 g0 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 B1 R0 R0 R0 B3
+Q3 B2 B2 B2 B2 Q0 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 B1 R0 R0 R0 B3
+B1 R0 R0 R0 R0 B3 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 B1 R0 R0 R0 B3
+B1 R0 R0 R0 R0 B3 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 B1 R0 R0 R0 B3
+B1 R0 R0 R0 R0 B3 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 B1 R0 R0 R0 B3
+B1 R0 R0 R0 R0 B3 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 B1 R0 R0 R0 B3
+Q2 B0 B0 B0 B0 Q1 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 Q2 B0 B0 B0 Q1
+f1 g0 g0 g0 g0 g0 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 g0 g0 g0 g0 f3
+f1 g0 g0 g0 g0 g0 g0 h0 h0 h0 h0 h0 h0 h0 h0 h0 h0 g0 g0 g0 g0 g0 f3
+f1 g0 g0 g0 g0 g0 g0 g0 g0 h0 h0 h0 h0 h0 h0 g0 g0 g0 g0 g0 g0 g0 f3
+f1 g0 g0 g0 g0 g0 g0 g0 g0 g0 h0 h0 h0 h0 g0 g0 g0 g0 g0 g0 g0 g0 f3
+F0 f0 f0 f0 f0 f0 f0 f0 f0 f0 h0 h0 h0 h0 f0 f0 f0 f0 f0 f0 f0 f0 F3
+
+FIXED treeOne1 v0 16 2 17 2 16 3 17 3
+FIXED treeOne2 v0 19 2 20 2 19 3 20 3
+FIXED treeTwo1 e0 2 2
+FIXED treeThree1 l0 12 11 11 11 12 12 11 12 
+FIXED light1 li0 16 7

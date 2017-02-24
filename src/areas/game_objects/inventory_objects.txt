@@ -1,0 +1,16 @@
+NORMAL Key key_sh1 k0 1 Spawn_1 5 2 The key for Spawn_1 room
+NORMAL Key key_sh2 k0 1 Spawn_2 5 2 The key for Spawn_2 room
+NORMAL Key key_sh3 k0 1 Spawn_3 5 2 The key for Spawn_3 room
+NORMAL Key key_sh4 k0 1 Spawn_4 5 2 The key for Spawn_4 room
+NORMAL Key key_sh5 k0 1 Spawn_5 5 2 The key for Spawn_5 room
+NORMAL Key key_sh6 k0 1 Spawn_6 5 2 The key for Spawn_6 room
+NORMAL Key key_sh7 k0 1 Spawn_7 5 2 The key for Spawn_7 room
+NORMAL Key key_sh8 k0 1 Spawn_8 5 2 The key for Spawn_8 room
+NORMAL Pizza pizza_01 pi0 2 null null null Mmmm Pizza.
+NORMAL Laptop laptop_01 La1 5 null null null A laptop with a gtx 1080.
+NORMAL Key key_o1 k0 1 Outside 7 7 The key for the chest in the storage room.
+NORMAL Key key_02 k0 1 null null null The for the chest outside.
+CONTAINER Box box_01 b0 5 null null null  Cardboard box.
+CONTAINER Box sparebox b0 5 Spawn_6 6 3 A box that you can put stuff in.
+NORMAL Key key_5 k0 1 null null null Key to the principles office.
+NORMAL Exam_Paper exm ep0 2 null null null THe exam you failed.

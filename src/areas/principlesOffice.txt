@@ -1,0 +1,13 @@
+9 7
+n w0 w0 w0 w0 w0 w0 w0 n
+w3 c0 c0 c0 c0 c0 c0 c0 w1
+w3 c0 c0 c0 c0 c0 c0 c0 w1
+w3 c0 c0 c0 c0 c0 c0 c0 w1
+w3 c0 c0 c0 c0 c0 c0 c0 w1
+w3 c0 c0 c0 c0 c0 c0 c0 w1
+n w2 w2 w2 w2 w2 w2 w2 n
+
+FIXED furniture1 x3 1 2 1 1 This is a book case.
+FIXED furniture1 x3 1 5 1 4 This is a book case.
+FIXED desk pd1 6 2 6 3 6 4
+FIXED paintingOne 1P0 8 3

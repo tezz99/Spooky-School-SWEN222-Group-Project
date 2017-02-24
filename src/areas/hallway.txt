@@ -1,0 +1,15 @@
+26 5
+n w0 w0 w0 w0 w0 w0 w0 w0 w0 w0 w0 w0 w0 w0 w0 w0 w0 w0 w0 w0 w0 w0 w0 w0 n
+w3 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 w1
+w3 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 w1
+w3 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 c0 w1
+n w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 n
+
+FIXED sign0 s0 6 0 Spawn_1
+FIXED sign1 s0 11 0 Spawn_2
+FIXED sign2 s0 16 0 Spawn_3
+FIXED sign3 s0 21 0 Spawn_4
+FIXED sign4 s2 6 4 Spawn_5
+FIXED sign5 s2 11 4 Spawn_6
+FIXED sign6 s2 16 4 Spawn_7
+FIXED sign7 s2 21 4 Spawn_8

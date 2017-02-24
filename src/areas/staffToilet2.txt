@@ -1,0 +1,6 @@
+6 5
+n u0 u0 u0 u0 n
+u3 L0 L0 L0 L0 u1
+u3 L0 L0 L0 L0 u1
+u3 L0 L0 L0 L0 u1
+n u2 u2 u2 u2 n

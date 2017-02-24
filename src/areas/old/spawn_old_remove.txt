@@ -1,0 +1,20 @@
+11 13
+n n n n n n n n n n n
+n n n n n w0 d0 w0 n n n
+n n n n w3 c0 c0 c0 w1 n n
+n n n n w3 c0 c0 c0 w1 n n
+n n n w0 W1 c0 c0 c0 w1 n n
+n n w3 c0 c0 c0 c0 c0 w1 n n
+n n w3 c0 c0 c0 c0 c0 w1 n n
+n n w3 c0 c0 c0 c0 c0 w1 n n
+n n w3 c0 c0 c0 c0 c0 w1 n n
+n n w3 c0 c0 c0 c0 c0 w1 n n
+n n w3 c0 c0 c0 c0 c0 w1 n n
+n n n w2 w2 w2 w2 w2 n n n
+n n n n n n n n n n n
+
+DOOR door1 d0 open unlocked null 6 1
+FIXED furniture1 f0 3 5 4 5
+FIXED table1 T0 4 8
+FIXED bed1 b1 6 8 7 8
+FIXED table2 t0 7 9

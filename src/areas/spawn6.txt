@@ -1,0 +1,19 @@
+11 13
+n n n n n n n n n n n
+n n n n n w0 w0 w0 n n n
+n n n n w3 c0 c0 c0 w1 n n
+n n n n w3 c0 c0 c0 w1 n n
+n n n w0 W1 c0 c0 c0 w1 n n
+n n w3 c0 c0 c0 c0 c0 w1 n n
+n n w3 c0 c0 c0 c0 c0 w1 n n
+n n w3 c0 c0 c0 c0 c0 w1 n n
+n n w3 c0 c0 c0 c0 c0 w1 n n
+n n w3 c0 c0 c0 c0 c0 w1 n n
+n n w3 c0 c0 c0 c0 c0 w1 n n
+n n n w2 w2 w2 w2 w2 n n n
+n n n n n n n n n n n
+
+FIXED furniture1 x0 3 5 4 5 This is a book case.
+FIXED table1 T0 4 8
+FIXED bed1 o1 6 8 7 8 This is a bed
+FIXED table2 t0 7 9
