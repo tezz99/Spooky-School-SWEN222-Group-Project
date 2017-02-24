@@ -19,12 +19,12 @@ To play the game, you must first start a server, and then join it. This can be d
 * ‘Arrow’ keys to move player.
 * ‘Z’ to perform an action (where applicable).
 * ‘R‘ to rotate the camera to the right.
-*‘L’ to rotate the camera to the left.
+* ‘L’ to rotate the camera to the left.
 
 ## Authors
 
-* **Pritesh R. Patel**
-* **Cameron McLachlan**
-* **Chethana Wijesekera**
-* **Andrew Mundt**
-* **Rong Wang**
+* Pritesh R. Patel
+* Cameron McLachlan
+* Chethana Wijesekera
+* Andrew Mundt
+* Rong Wang
